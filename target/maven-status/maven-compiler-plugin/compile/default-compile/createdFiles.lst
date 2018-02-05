@@ -1,0 +1,5 @@
+com/abhi/springbatch/steps/Processor.class
+com/abhi/springbatch/steps/Reader.class
+com/abhi/springbatch/steps/Writer.class
+com/abhi/springbatch/config/BatchConfig.class
+com/abhi/springbatch/SpringBatchApplication.class
